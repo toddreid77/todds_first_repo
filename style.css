@@ -1,0 +1,9 @@
+#container {
+	background: red;
+	color: white;
+	text-transform: uppercase;
+}
+
+#container h1 {
+	font-size: 32px;
+}
